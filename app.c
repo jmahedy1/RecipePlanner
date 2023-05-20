@@ -1,5 +1,5 @@
-//  Compile: gcc -o app app.c -lcurl -lcjson `pkg-config --cflags --libs gtk+-3.0`
-//  Run: ./app
+//  To Compile: gcc -o app app.c -lcurl -lcjson `pkg-config --cflags --libs gtk+-3.0`
+//  To Run: ./app
 
 #include <stdio.h>
 #include <stdlib.h>
